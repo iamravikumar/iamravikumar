@@ -1,5 +1,11 @@
-## Hello World !!! I'm [Ravi][www.revsolution.co.in] 👋
-## Hello World !!! I'm <a href="https://ankitsharmablogs.com/" rel="nofollow">Ankit</a> 👋 
+## Hello World !!! I'm <a href="https://ankitsharmablogs.com/" rel="nofollow">Ravi</a> 👋<img align="right" src="https://komarev.com/ghpvc/?username=iamravikumar" alt="iamravikumar" />
+
+### Author | Speaker | Passionate Programmer | Full Stack Developer |ERP Consultant
+
+- 🔭 I’m currently working on .Net Core,WinForms, Blazor, ASP.NET MVC, REST API , SQL SERVER , ORACLE
+- 🌱 I’m currently learning Node.js, Angular, PHP, MongoDB, Firebase, Andoroid Development , IOS Development
+- 💬 Ask me about Angular, Blazor, ASP.NET Core, C#, REST Api, Blogging
+- 📫 How to reach me: agra.ravikumar@gmail.com
 
 <!--
 **iamravikumar/iamravikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
