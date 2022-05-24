@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+for badge
+https://www.linkedin.com/badges/profile/create?vanityname=ravikumaragra&preferredlocale=en_US&trk=public_profile-settings_badge
+
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ravikumaragra" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ravikumaragra?trk=profile-badge">Ravi Kumar Freelance - Sr. Software Engineer</a></div>
 -->
