@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning Node.js, Angular, PHP, MongoDB, Firebase, Andoroid Development , IOS Development
 - 💬 Ask me about Angular, Blazor, ASP.NET Core, C#, REST Api, Blogging
 - 📫 How to reach me: agra.ravikumar@gmail.com
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ravikumaragra" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ravikumaragra?trk=profile-badge">Ravi Kumar Freelance - Sr. Software Engineer</a></div>
+
               
 <!--
 **iamravikumar/iamravikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ravikumaragra" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ravikumaragra?trk=profile-badge">Ravi Kumar Freelance - Sr. Software Engineer</a></div>
 -->
